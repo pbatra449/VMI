@@ -1,0 +1,85 @@
+
+.first{
+  padding: 3% 15% 7%;
+}
+#intro{
+  background-color: #c1a1d3;
+  color: #fff3e6;
+}
+#middle{
+  padding: 100px;
+  text-align: center;
+
+}
+h1,h3{
+  font-family: 'Montserrat';
+}
+
+#bottom{
+  background-color: #eff7e1;
+  padding: 50px;
+  text-align: center;
+}
+.title-img{
+  width: 80%;
+  border-radius: 25px;
+  height: 80%
+}
+
+
+/* Navigation Bar */
+.navcolor{
+  color: #fff3e6;
+}
+.navbar-brand{
+  font-size: 2.5em;
+
+}
+.navbar{
+    padding: 0 0 4.5em;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.big-heading{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.row{
+  margin-right: auto;
+}
+.pricing-column {
+    padding: 3% 2%;
+}
+#bottom-heading{
+  text-align: center;
+  font-size: 3rem;
+  color: #1f441e;
+}
+.card-body{
+  text-align: center;
+}
+#footer{
+  text-align: center;
+  background-color: #fff;
+  padding: 7% 15%;
+}
+.icons{
+  padding: 1% 2%;
+}
+.fa-icon{
+  padding: 0 1%;
+  text-decoration: none;
+  color: black;
+}
+.fa-icon:hover{
+  text-decoration: none;
+  color: #8f8f8f;
+}
+p{
+  color: #8f8f8f;
+}
