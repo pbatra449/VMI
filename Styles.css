@@ -1,6 +1,9 @@
+@media (max-width: 500px){
 body {
-  position: absolute !important;
+  position: absolute ;
  }
+}
+
 .first{
   padding: 3% 15% 7%;
 }
