@@ -1,4 +1,6 @@
-
+body {
+  position: absolute;
+ }
 .first{
   padding: 3% 15% 7%;
 }
