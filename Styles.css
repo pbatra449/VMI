@@ -1,5 +1,5 @@
 body {
-  position: absolute;
+  position: absolute !important;
  }
 .first{
   padding: 3% 15% 7%;
